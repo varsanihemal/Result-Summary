@@ -1,9 +1,9 @@
 ### Screenshot
 
-![](./Result Summary.PNG)
+![](./Screenshot%20(9).png)
 
 ### Links
-- Live Site URL: [Add live site URL here](https://hvresult-summary.netlify.app/)
+- Live Site URL:(https://hvresult-summary.netlify.app/)
 
 ## My process
 
